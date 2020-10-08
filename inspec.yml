@@ -10,6 +10,7 @@ description: >
   http://iasecontent.disa.mil/stigs/zip/U_JBoss_EAP_6-3_V1R2_STIG.zip
   with modifications for Wildfly
 version: 1.0.0
+inspec_version: ">= 4.0"
 
 inputs:
   - name: disable_slow_controls
